@@ -1,4 +1,4 @@
-# Analyzing Bird-diversity Across Historically Redlined Districts in LA County
+# Analyzing Bird Diversity Across Historically Redlined Districts in LA County
 ## Author: Emma Bea Mitchell 
 
 ## Description
