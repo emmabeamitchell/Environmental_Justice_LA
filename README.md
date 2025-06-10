@@ -18,16 +18,12 @@ This project analyzes and maps the historically redlined districts in LA County,
 
 ## Repository Organization
 ```
-Environmental_justice_LA.qmd
-│   README.md
-│   Environmental_Justice_LA.qmd
-│   Rmd/Proj files    
-│   Environmental_Justice_LA.html
-|
-└───data
-     └───ejscreen
-     └───gbif-birds-LA
-     └───mapping-inequality
+Environmental_Justice_LA/
+├─ .gitignore
+├─ Environmental_Justice_LA.Rproj
+├─ Environmental_Justice_LA.qmd
+└─ README.md
+
 ```
 ## Data Access 
 
